@@ -1,0 +1,4 @@
+<a class="weatherwidget-io" href="https://forecast7.com/ja/n22d01n47d89/sao-carlos/" data-label_1="SÃO CARLOS" data-label_2="天気" data-font="ヒラギノ角ゴ Pro W3" data-theme="original" data-basecolor="#df8282" data-textcolor="#343434" data-highcolor="#ffecec" data-lowcolor="#eaf3ff" data-suncolor="#ffc181" data-mooncolor="#e7e7e7" data-cloudcolor="#d2d2d2" data-raincolor="#cee2ff" >SÃO CARLOS 天気</a>
+<script>
+!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src='https://weatherwidget.io/js/widget.min.js';fjs.parentNode.insertBefore(js,fjs);}}(document,'script','weatherwidget-io-js');
+</script>
